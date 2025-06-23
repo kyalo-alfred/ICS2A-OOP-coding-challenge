@@ -1,2 +1,3 @@
-# java-coding-challenge
-Practicing Java
+# ICS 2A-OOP-coding-challenge
+190513 - ALFRED KYALO JUNIOR
+
